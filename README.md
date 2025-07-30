@@ -96,7 +96,8 @@ A CSV file named `tops_for_women_myntra_products.csv` will be created with the e
 ## 📄 License
 
 This project is part of an internship assignment and is for educational use only.  
-**© SkillCraft Technology - Internship 2025**
+**© 2025 Meera Krishna ([@Meera-Krishna](https://github.com/Meera-Krishna))**
+
 
 ---
 ## 👩‍💻 Author
