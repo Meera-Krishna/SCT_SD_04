@@ -89,7 +89,8 @@ A CSV file named `tops_for_women_myntra_products.csv` will be created with the e
 
 ## 📸 Task Reference
 
-![Task Screenshot](57ee0f75-cba5-481b-b007-16e73af4263c.png)
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/9b52e1fa-d9b8-4215-9b16-166bc7573322" />
+
 
 ---
 
