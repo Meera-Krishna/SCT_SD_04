@@ -99,7 +99,11 @@ This project is part of an internship assignment and is for educational use only
 **© SkillCraft Technology - Internship 2025**
 
 ---
+## 👩‍💻 Author
 
-## 🙌 Acknowledgments
+**Meera Krishna**  
+_“⚙️ Debugging life one commit at a time — architecting logic, styling with sass, and deploying dreams.”_
 
-Special thanks to the mentors and coordinators at **SkillCraft Technology** for this hands-on learning opportunity in web scraping and automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/meera-krishna)
+
+---
