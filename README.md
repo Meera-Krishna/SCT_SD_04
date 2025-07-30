@@ -57,7 +57,7 @@ pip install selenium webdriver-manager
 ## ▶️ Run the Script
 
 ```bash
-python myntra_scraper.py
+python task4.py
 ```
 
 Then enter your product keyword, such as:
